@@ -112,8 +112,8 @@
 [[projects]]
   name = "github.com/urfave/cli"
   packages = ["."]
-  revision = "cfb38830724cc34fedffe9a2a29fb54fa9169cd1"
-  version = "v1.20.0"
+  revision = "d648edd48d89ef3a841b1ec75c2ebbd4de5f748f"
+  version = "v2.2.0"
 
 [[projects]]
   branch = "master"
